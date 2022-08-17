@@ -11,7 +11,7 @@ I built Galaxy Attack 1 when I was 15 years old and first started out programmin
 
 In the video I linked below I included a 20 second clip of the original galaxy attack on top of the one minute clip of the new game that I built for this project. 
 
-[This is an external link] (https://www.youtube.com/watch?v=JtZ_cXay2pI)
+- [This is an external link] (https://www.youtube.com/watch?v=JtZ_cXay2pI)
 
 ## Controls 
     Arrow keys to move Ship 
