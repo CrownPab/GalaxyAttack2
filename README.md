@@ -1,10 +1,6 @@
-# Major Group Project 1 (2D)
+# Galaxy Attack 2 
 
-You can work on this assignment alone or in a group of no more than 2 students.
-
-| Group Member Name          | GitHub Username    |
-| :------------------------- |:------------------:|
-|   Gagandeep Pabla | CrownPab |
+This is a project I built for my Interactive Media class in Unity. It is a 2D action space shooter called Galaxy Attack 2. I built this game using unity
 
 
 ## About
